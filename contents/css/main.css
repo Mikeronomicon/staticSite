@@ -4,10 +4,10 @@ h1, h2, h3, h4, h5, h6, p, body, a, img, ul, ol, blockquote, pre {
 }
 
 body {
-  font-family: 'Lora', serif;
+  font-family: 'Tahoma';
   font-size: 21px;
   line-height: 1.52;
-  background-color: #f8f8f8;
+  background-color: #9EBCAD;
   text-rendering: optimizeLegibility;
 }
 
@@ -17,11 +17,11 @@ body {
 }
 
 body, a {
-  color: #171717;
+  color: #568D71;
 }
 
 a:hover {
-  color: #ff8000;
+  color: #7F13C2;
   text-decoration: underline;
 }
 
@@ -96,7 +96,7 @@ hr {
 
 .header a, .header a:hover {
   text-decoration: none;
-  color: #171717;
+  color: #568D71;
 }
 
 .header .author {
@@ -121,6 +121,7 @@ body.article-detail > header h1 {
   font-style: italic;
   font-weight: 400;
   margin-bottom: -0.2em;
+  color: #568D71;
 }
 
 body.article-detail > header {
